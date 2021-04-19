@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "905851392663",
+    "project_id": "flutter-d110f",
+    "storage_bucket": "flutter-d110f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905851392663:android:969b8d96f19577a9f18fd2",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905851392663-109nf4pt4add4fp2886cgdf3tlnl49p9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase",
+            "certificate_hash": "b8cb6c6aa32147372ce2bfa4a86f594b2798791f"
+          }
+        },
+        {
+          "client_id": "905851392663-18hgmn5lakajflcg8en33f926pgajgng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxiyojp5LTgTArnc_Ze5HHI888vXtocmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905851392663-18hgmn5lakajflcg8en33f926pgajgng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-2853014295187339~6892737838"
+    }
+  ],
+  "configuration_version": "1"
+}

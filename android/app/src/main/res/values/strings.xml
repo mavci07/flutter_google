@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">firebase</string>
+    <string name="facebook_app_id">439906804110091</string>
+<string name="fb_login_protocol_scheme">fb439906804110091</string>
+
+</resources>
